@@ -222,7 +222,7 @@ inflection==0.5.1; python_version >= "3.5"
 iniconfig==1.1.1; python_full_version >= "3.6.1" and python_version >= "3.7" and python_full_version < "4.0.0" and python_version < "3.10"
 intervaltree==3.1.0; python_full_version >= "3.6.0"
 ipinfo==4.2.1
-ipython==8.1.1; python_version >= "3.8"
+ipython==8.10.0; python_version >= "3.8"
 isodate==0.6.1; python_version >= "3.6"
 isort==5.10.1; python_full_version >= "3.6.1" and python_version < "4.0" and python_version >= "3.5"
 itsdangerous==2.0.1; python_version >= "3.6"
