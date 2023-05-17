@@ -390,7 +390,7 @@ sqlalchemy==1.4.32; (python_version >= "2.7" and python_full_version < "3.0.0") 
 sqlparse==0.4.2; python_version >= "3.7" and python_version < "4.0"
 sshpubkeys==3.3.1; python_version >= "3"
 stack-data==0.2.0; python_version >= "3.8"
-starlette==0.16.0; python_version >= "3.6" and python_full_version >= "3.6.1"
+starlette==0.27.0; python_version >= "3.6" and python_full_version >= "3.6.1"
 stringcase==1.2.0
 structlog==21.5.0; python_version >= "3.6"
 swagger-spec-validator==2.7.4
